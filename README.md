@@ -9,7 +9,7 @@ Introduction:
 - This tutorial will guide you steps to setup the Wifi module of  raspberry pi 3 work with Station and Access Point mode, you can easily switch between station mode and AP mode.
 Setup:
 ```bash
-git clone https://github.com/quangthanh010290/RPI3_HOTSPOTS.git
+git clone https://github.com/jrdodoo/Joel.git
 sudo ./install.sh
 ```
 Test:
